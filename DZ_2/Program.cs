@@ -113,17 +113,31 @@ bool CheckVyhi(int day)
 
 System.Console.Clear();
 Console.WriteLine("Programa dlya proverki dnya nedeli (po nomeru) na to, yavlyaetsya li on vyhodnym.");
-Console.WriteLine("Vvedi poryadkovyy nomer dnya nedeli.");
+Console.WriteLine("Vvedi poryadkovyy nomer dnya nedeli [1..7].");
 int day = Convert.ToInt32(Console.ReadLine());
-string dayname = DayName(day);
-Console.Write($"Vy vveli {day} - {dayname}");
-Console.ReadLine();
-bool result3 = CheckVyhi(day);
-if(result3 == true)
+if(day >= 1 && day <= 7)
 {
-    Console.WriteLine("Etot den` nedeli - vyhodnoy. Ura! =)");
+    string dayname = DayName(day);
+    Console.Write($"Vy vveli {day} - {dayname}");
+    Console.ReadLine();
+    bool result3 = CheckVyhi(day);
+    if(result3 == true)
+    {
+        Console.WriteLine("Etot den` nedeli - vyhodnoy. Ura! =)");
+    }
+    else
+    {
+        Console.WriteLine("Etot den` nedeli - NE vyhodnoy. Uvy. =(");
+    }
 }
 else
 {
-        Console.WriteLine("Etot den` nedeli - NE vyhodnoy. Uvy. =(");
+    Console.WriteLine("Vvedenno nepravil`noe chislo. Neobhodimo vvesti ot 1 do 7.");
 }
+
+
+Console.ReadLine();
+//Конец программы.
+System.Console.Clear();
+Console.WriteLine("Spasibo za ispol'zovanie etoy programmy.");
+Console.ReadLine();
