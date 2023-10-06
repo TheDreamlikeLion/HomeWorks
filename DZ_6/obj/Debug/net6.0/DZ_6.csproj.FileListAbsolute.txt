@@ -1,0 +1,15 @@
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.csproj.AssemblyReference.cache
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.AssemblyInfoInputs.cache
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.AssemblyInfo.cs
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.csproj.CoreCompileInputs.cache
+C:\Projects\HomeWorks\DZ_6\bin\Debug\net6.0\DZ_6.exe
+C:\Projects\HomeWorks\DZ_6\bin\Debug\net6.0\DZ_6.deps.json
+C:\Projects\HomeWorks\DZ_6\bin\Debug\net6.0\DZ_6.runtimeconfig.json
+C:\Projects\HomeWorks\DZ_6\bin\Debug\net6.0\DZ_6.dll
+C:\Projects\HomeWorks\DZ_6\bin\Debug\net6.0\DZ_6.pdb
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.dll
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\refint\DZ_6.dll
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.pdb
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\DZ_6.genruntimeconfig.cache
+C:\Projects\HomeWorks\DZ_6\obj\Debug\net6.0\ref\DZ_6.dll
